@@ -1,0 +1,19 @@
+{
+    "C_Cpp.default.includePath": [
+        "./include",
+        "./include/CGAL/CGAL5.5.2/include",
+        "./include/CGAL/CGAL5.5.2/auxiliary/gmp/include",
+    ],
+    "files.associations": {
+        "*.cjson": "jsonc",
+        "*.wxss": "css",
+        "*.wxs": "javascript",
+        "any": "cpp",
+        "bitset": "cpp",
+        "future": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "*.ipp": "cpp"
+    }
+}
