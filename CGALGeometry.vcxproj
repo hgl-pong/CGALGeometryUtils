@@ -135,9 +135,11 @@
     <ClCompile Include="src\BooleanTool.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CGAL.h" />
     <ClInclude Include="include\BooleanTool.h" />
     <ClInclude Include="include\GeometryTypes.h" />
     <ClInclude Include="include\Macro.h" />
+    <ClInclude Include="IO.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -32,5 +32,11 @@
     <ClInclude Include="include\Macro.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="CGAL.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IO.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
